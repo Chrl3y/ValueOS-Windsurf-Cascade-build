@@ -149,7 +149,6 @@ ValueOS uses IndexedDB for local data storage, ensuring:
 
 ## License
 
-[Your License Here]
 
 ---
 
